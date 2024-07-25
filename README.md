@@ -1,4 +1,4 @@
-# qr_covid
+# No Paper App
 
 A new Flutter application.
 
